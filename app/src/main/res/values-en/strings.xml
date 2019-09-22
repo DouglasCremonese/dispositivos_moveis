@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Teams List</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_time">Add Team</string>
+    <string name="title_activity_lista_jogador">Players List</string>
+    <string name="title_activity_view_add_jogador">Player Register</string>
+    <string name="nomeJogador">Player Name</string>
+    <string name="digitaJogador">Type the Player Name:</string>
+    <string name="numeroCamisa">Shirt Number</string>
+    <string name="digitaCamisa">Type the shirt number:</string>
+    <string name="botaoJogador">Register</string>
+
+
+    <string name="nomeTime">Name</string>
+    <string name="digiteTime">Type the team name:</string>
+    <string name="botaoTime">Send</string>
+
+    <string name="numeroCamisaJogador">Number</string>
+    <string name="excluirLista">Are you sure you want to delete the list?</string>
+    <string name="excluirJogador">Are you sure you want to delete the player?</string>
+
+    <string name="sim">Yes</string>
+    <string name="nao">No</string>
+    <string name="deletar">Deleting list...</string>
+    <string name="deletarJogador">Deleting player...</string>
+
+
+
+
+
+
+</resources>

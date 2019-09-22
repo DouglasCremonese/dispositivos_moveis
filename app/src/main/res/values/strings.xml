@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Lista de Times</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_time">Adicionar Time</string>
+    <string name="title_activity_lista_jogador">Lista De Jogadores</string>
+    <string name="title_activity_view_add_jogador">Cadastro de Jogador</string>
+    <string name="nomeJogador">Nome do Jogador</string>
+    <string name="digitaJogador">Digite o nome do Jogador:</string>
+    <string name="numeroCamisa">Número da camisa</string>
+    <string name="digitaCamisa">Digite o número da camisa:</string>
+    <string name="botaoJogador">Cadatrar</string>
+
+
+    <string name="nomeTime">Nome</string>
+    <string name="digiteTime">Digite o nome do Time:</string>
+    <string name="botaoTime">Salvar</string>
+
+    <string name="numeroCamisaJogador">Número</string>
+
+    <string name="excluirLista">Você tem certeza que quer excluir a lista?</string>
+    <string name="excluirJogador">Você tem certeza que quer excluir o jogador?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="deletar">Excluiído lista...</string>
+    <string name="deletarJogador">Excluiído jogador...</string>
+
+
+
+
+</resources>
